@@ -6,6 +6,7 @@ Vidyome Platform offers unique technology and video advertising support for thos
 * Website: [https://www.vidyome.com/](https://www.vidyome.com/)
 * Platform: [https://publishers.vidyome.com/](https://publishers.vidyome.com/)
 * Developer Documents: [https://www.vidyome.com/en/developer-documentation/](https://www.vidyome.com/en/developer-documentation/)
+* HTML5 Player Features: [https://www.vidyome.com/en/html5-player-features/](https://www.vidyome.com/en/html5-player-features/)
 
 # HTML5 Video Player
 User-friendly interface and usage options will increase your video viewing rates with HTML5 Video Player. The interest and interaction of your visitor traffic with your video ads is directly affected.
@@ -48,3 +49,5 @@ id="vidyome-player"
 site-id="{{vidyome-site-id}}">
 </script>
 ```
+* Developer Documents: [https://www.vidyome.com/en/developer-documentation/](https://www.vidyome.com/en/developer-documentation/)
+* HTML5 Player Features: [https://www.vidyome.com/en/html5-player-features/](https://www.vidyome.com/en/html5-player-features/)
