@@ -1,4 +1,4 @@
-# ![Vidyome](https://www.vidyome.com/wp-content/uploads/2017/11/logo_transparent.png)
+# ![Vidyome](https://www.vidyome.com/wp-content/uploads/2018/02/vidyome-logo.png)
 
 CPM, Video Ads, Native Ads, Programmatic Ads.
 Vidyome Platform offers unique technology and video advertising support for those who want to generate revenue from their video ads.
