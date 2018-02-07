@@ -51,5 +51,22 @@ video-poster="{{poster-path}}"
 site-id="{{vidyome-site-id}}">
 </script>
 ```
+FACEBOOK INSTANT ARTICLES USE
+
+```HTML
+<!-- You need to be a member of vidyome.com for ad management. -->
+<figure class="op-interactive">
+<iframe class="no-margin" width="480" height="360">
+<div id="vidyome-container"></div>
+<script src="https://player.vidyome.com/vidyome/builds/player.js?v=177973153" id="vidyome-player" 
+video-type="fbia" 
+video-source="{{source-path}}"
+video-poster="{{poster-path}}"
+site-id="{{vidyome-site-id}}"></script>
+</iframe>
+</figure>
+```
+
 * Developer Documents: [https://www.vidyome.com/en/developer-documentation/](https://www.vidyome.com/en/developer-documentation/)
 * HTML5 Player Features: [https://www.vidyome.com/en/html5-player-features/](https://www.vidyome.com/en/html5-player-features/)
+* Creating Embed Code for Facebook Instant Articles: [https://www.vidyome.com/en/html5-player-features/#fbia](https://www.vidyome.com/en/html5-player-features/#fbia)
