@@ -4,6 +4,8 @@ CPM, Video Ads, Native Ads, Programmatic Ads.
 Vidyome Platform offers unique technology and video advertising support for those who want to generate revenue from their video ads.
 
 * Website: [https://www.vidyome.com/](https://www.vidyome.com/)
+* Platform: [https://publishers.vidyome.com/](https://publishers.vidyome.com/)
+* Developer Documents: [https://www.vidyome.com/en/developer-documentation/](https://www.vidyome.com/en/developer-documentation/)
 
 # HTML5 Video Player
 User-friendly interface and usage options will increase your video viewing rates with HTML5 Video Player. The interest and interaction of your visitor traffic with your video ads is directly affected.
