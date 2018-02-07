@@ -25,12 +25,24 @@ Things to do for Vidyome Player’s use in FB Instant Articles.
 
 It works differently in order to support the embed code you add to your web site and the FBIA internal embed code advertising feature. If you have a software team, you can use the following PHP code example to automatically edit the embed code you added on your website for FBIA use.
 
-# DEMO VIDYOME PLAYER
+# DEMO 
+VIDYOME CDN USE
 
 ```HTML
+<!-- For videos uploaded via publisher.vidyome.com. -->
 <div id="vidyome-container"></div>
 <script src="https://player.vidyome.com/vidyome/builds/player.js"
 id="vidyome-player"
 video-id="{{vidyome-video-id}}">
+</script>
+```
+EXTERNAL CDN USE
+
+```HTML
+<!-- You need to be a member of vidyome.com for ad management. -->
+<div id="vidyome-container"></div>
+<script src="https://player.vidyome.com/vidyome/builds/player.js"
+id="vidyome-player"
+site-id="{{vidyome-site-id}}">
 </script>
 ```
