@@ -28,7 +28,7 @@ Things to do for Vidyome Player’s use in FB Instant Articles.
 
 It works differently in order to support the embed code you add to your web site and the FBIA internal embed code advertising feature. If you have a software team, you can use the following PHP code example to automatically edit the embed code you added on your website for FBIA use.
 
-# DEMO 
+# Examples 
 VIDYOME CDN USE
 
 ```HTML
