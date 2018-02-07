@@ -58,7 +58,8 @@ FACEBOOK INSTANT ARTICLES USE
 <figure class="op-interactive">
 <iframe class="no-margin" width="480" height="360">
 <div id="vidyome-container"></div>
-<script src="https://player.vidyome.com/vidyome/builds/player.js?v=177973153" id="vidyome-player" 
+<script src="https://player.vidyome.com/vidyome/builds/player.js" 
+id="vidyome-player" 
 video-type="fbia" 
 video-source="{{source-path}}"
 video-poster="{{poster-path}}"
