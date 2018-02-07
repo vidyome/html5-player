@@ -46,6 +46,8 @@ EXTERNAL CDN USE
 <div id="vidyome-container"></div>
 <script src="https://player.vidyome.com/vidyome/builds/player.js"
 id="vidyome-player"
+video-source="{{source-path}}"
+video-poster="{{poster-path}}"
 site-id="{{vidyome-site-id}}">
 </script>
 ```
