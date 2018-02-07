@@ -12,3 +12,8 @@ Autoplay in desktop and mobile, volume adjustment, resizing player size and cust
 
 # Live Streaming
 It provides seamless live broadcast support on all devices with RTMP and M3U8 source provider links. Video ad support is available for those who want to earn from Live Broadcast content.
+
+# Facebook Instant Articles
+Things to do for Vidyome Player’s use in FB Instant Articles.
+
+It works differently in order to support the embed code you add to your web site and the FBIA internal embed code advertising feature. If you have a software team, you can use the following PHP code example to automatically edit the embed code you added on your website for FBIA use.
